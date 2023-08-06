@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "twilightZone": [
+    {
+      "id": 1,
+      "episode": "101",
+      "title": "Where is Everybody?",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjM4NzA0OTMyNF5BMl5BanBnXkFtZTgwMDA2OTEyMjE@._V1_.jpg",
+      "synopsis": "In the first episode ever made of The Twilight Zone, a man finds himself totally alone in a small town. His panic escalates into terror as he desperately looks for an explanation.",
+      "rating": 5
+    },
+    {
+      "episode": "102",
+      "title": "One For The Angels",
+      "imageUrl": "https://midnitereviews.com/wp-content/uploads/2014/09/The-Twilight-Zone-One-for-the-Angels-3.jpg",
+      "synopsis": "A sidewalk salesman is visited by Death. When he refuses to go, Death decides to take a little girl at midnight instead.",
+      "rating": 2.5,
+      "id": 2
+    },
+    {
+      "episode": "103",
+      "title": "Mr. Denton On Doomsday",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDk2MjIxYjctZjIwMS00NjI2LWJjZGUtMmNhNGZlYmY4N2JlXkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg",
+      "synopsis": "In the Old West, a quick-draw duelist is scared of a new challenger, but is offered a special potion that will make him the best shooter for 10 seconds.",
+      "rating": 3,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "episode": "104",
+      "title": "The Sixteen-Millimeter Shrine",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDc3ZGE2Y2EtNGVkMi00MGY5LTgwNjItYmYzMTYzNjgwYzM2XkEyXkFqcGdeQXVyMTE0Nzk5NzM4._V1_.jpg",
+      "synopsis": "Good Episode.",
+      "rating": "4.5/5"
+    },
+    {
+      "id": 5,
+      "episode": "105",
+      "title": "Walking Distance",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDc3ZGE2Y2EtNGVkMi00MGY5LTgwNjItYmYzMTYzNjgwYzM2XkEyXkFqcGdeQXVyMTE0Nzk5NzM4._V1_.jpg",
+      "synopsis": "Rod Serling makes me cry like a little baby.",
+      "rating": "5/5"
+    },
+    {
+      "episode": "106",
+      "title": "Escape Clause",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDc3MzAzN2MtYTU3OC00ZTI0LWFkYTctNDljOGU5MzQ3NjY3XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_.jpg",
+      "synopsis": "A hypochondriac makes a Deal with the Devil for immortality, but becomes bored when his death-defying stunts lose their luster.",
+      "rating": 2,
+      "id": 6
+    },
+    {
+      "episode": "107",
+      "title": "The Lonely",
+      "imageUrl": "https://static.tvtropes.org/pmwiki/pub/images/twilight_zone_season_1_7_the_lonely.jpg",
+      "synopsis": "A convict in solitary confinement on an asteroid is given a robot woman for companionship, but soon believes she's a real woman, and when he receives a pardon, has to deal with leaving her behind.",
+      "rating": 4.5,
+      "id": 7
+    }
+  ],
+  "darkestDungeonCharacters": [
+    {
+      "id": 1,
+      "name": "reynauld",
+      "class": "crusader",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

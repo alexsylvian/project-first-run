@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <script src="db-data.js"></script>
+        <script defer src="db-index.js"></script>
+        <link rel="stylesheet" type="text/css" href="db-index.css">
+        <title>Twilight Zone Page</title>
+    </head>
+    <body>
+        <header id = "menu">
+            <h1>In The Twilight Zone.....</h1>
+        </header>
+        <div class="container">
+            <form id="episode-guide">
+                <label for="episode">Episode</label>
+                <input type="text" id="episode" name="episode">
+                <label for="title">Title</label>
+                <input type="text" id="title" name="title">
+                <label for="episode">Image URL</label>
+                <input type="text" id="image_url" name="image_url">
+                <label for="synopsis">Synopsis</label>
+                <textarea id="synopsis" name="synopsis"></textarea>
+                <label for="rating">Rating</label>
+                <input type="text" id="rating" name="rating">
+                <button type="submit" id="button">Pick Episode</button>
+            </form>
+            </div>
+            <div class="container" id="small-container">
+                <form id="find-episode">
+                    <label for="episode">ID</label>
+                    <input type="text" id="id" name="id">
+                    <button type="submit" id="second-button">Pick Episode</button>
+            </div>
+            <ul id="episode-list" class="cards">
+                <!--list -->
+            </ul>
+    </body>
+</html>
