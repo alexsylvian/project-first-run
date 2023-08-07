@@ -1,7 +1,7 @@
-time to try this
-la
-let's see if it worked
+# New Committing Methods
 
-nu
+you can use the echo ' ' >> readme.md command to add things to readme.md without opening it!
 
-work already
+Did it work?
+
+Q exits git diff HEAD
