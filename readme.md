@@ -31,4 +31,7 @@
     - You can't switch branches without committing new (unsaved) information
     - If you need to switch branches before committing you can use 'git stash' which will store your unsaved information and then when you come back you can use 'git stash pop' to retrieve it
 
-kill the poor
+
+is a burning thing
+
+- 'git merge' combines the parallel universes of 'git branch' (as long as they don't contradict each other)
