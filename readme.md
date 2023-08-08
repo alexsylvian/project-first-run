@@ -29,9 +29,4 @@
     - 'git switch -c (name of NEW branch)' both adds AND switches to a new branch
     - you can even check the differences between branches with 'git diff (name of branch)(name of other branch)'
     - You can't switch branches without committing new (unsaved) information
-    - If you need to switch branches before committing you can use 'git stash' which will store your unsaved information and then when you come back you can use 'git stash pop' to retrieve it
-
-
-is a burning thing
-
-- 'git merge' combines the parallel universes of 'git branch' (as long as they don't contradict each other)
+    - If you need to switch branches before committing you can use 'git stash' which will store your unsaved information and then when you come back you can use 'git stash pop' to retrieve it, is that all?
