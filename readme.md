@@ -24,6 +24,5 @@
 
 - git revert SHA lets you remove a certain commit (the one from the SHA), but leaves everything after, so the stuff you put in afterward is safe
 
-- asBUIHHHHHHHHHHHHHHHHHHHHHHHJNEEFEDLEKDO:
-hntjirnmhijtgnhdrjktgnbsfmv sev
-enthvsrbvhrbvhrvt rvbs
+- git branch creates a parallel universe where you can make changes to the code without affecting the main branch
+    - you do this with git branch (name of branch), and then you can switch to it with git switch (name of branch)
