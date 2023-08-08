@@ -24,8 +24,10 @@
 
 - git revert SHA lets you remove a certain commit (the one from the SHA), but leaves everything after, so the stuff you put in afterward is safe
 
-- git branch creates a parallel universe where you can make changes to the code without affecting the main branch
-    - you do this with git branch (name of branch), and then you can switch to it with git switch (name of branch)
-    - git switch -c (name of NEW branch) both adds AND switches to a new branch
+- 'git branch' creates a parallel universe where you can make changes to the code without affecting the main branch
+    - you do this with 'git branch (name of branch)', and then you can switch to it with 'git switch (name of branch)'
+    - 'git switch -c (name of NEW branch)' both adds AND switches to a new branch
+    - you can even check the differences between branches with 'git diff (name of branch)(name of other branch)'
+    - You can't switch branches without committing new (unsaved) information
+    - If you need to switch branches before committing you can use 'git stash' which will store your unsaved information and then when you come back you can use 'git stash pop' to retrieve it
 
-- what?
