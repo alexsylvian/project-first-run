@@ -26,3 +26,6 @@
 
 - git branch creates a parallel universe where you can make changes to the code without affecting the main branch
     - you do this with git branch (name of branch), and then you can switch to it with git switch (name of branch)
+    - git switch -c (name of NEW branch) both adds AND switches to a new branch
+
+- what?
