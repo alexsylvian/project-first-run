@@ -32,3 +32,5 @@
     - If you need to switch branches before committing you can use 'git stash' which will store your unsaved information and then when you come back you can use 'git stash pop' to retrieve it
 
 - 'git merge' combines the parallel universes of 'git branch' (as long as they don't contradict each other, for example if you never edited the same file.
+
+- the other conflict test
