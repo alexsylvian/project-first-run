@@ -34,3 +34,6 @@
 - 'git merge' combines the parallel universes of 'git branch' (as long as they don't contradict each other, for example if you never edited the same file)
 
 - intentional conflict
+- again
+- what
+- is
