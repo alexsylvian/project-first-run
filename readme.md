@@ -33,3 +33,7 @@
 
 - 'git merge' combines the parallel universes of 'git branch' (as long as they don't contradict each other, for example if you never edited the same file)
     - If there's a conflict, you can just remove the git markers (>>>, ===, and <<<) to stop it.
+    - you might have to commit after the merge
+    - to delete a whole branch simply use 'git branch -d (name of branch)'
+    - if the branch is unmerged you will be unable to delete
+    - if you want to bypass and lose the branch without merging you can do 'git branch -D (name of branch)'
