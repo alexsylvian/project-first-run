@@ -34,3 +34,4 @@
 - 'git merge' combines the parallel universes of 'git branch' (as long as they don't contradict each other, for example if you never edited the same file.
 
 - the other conflict test
+- why isn't this working?
